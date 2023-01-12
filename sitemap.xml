@@ -11,6 +11,9 @@
     <loc>https://tavi.top/categories/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://tavi.top/tags/default/</loc>
+    <lastmod>2022-03-06T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://tavi.top/categories/example-category/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
@@ -27,6 +30,9 @@
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tavi.top/tags/</loc>
+    <lastmod>2022-03-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tavi.top/p/text.html/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tavi.top/links.html/</loc>
