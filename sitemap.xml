@@ -3,15 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://tavi.top/</loc>
-    <lastmod>2022-03-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tavi.top/archives.html/</loc>
-    <lastmod>2022-03-06T00:00:00+00:00</lastmod>
+    <lastmod>2023-01-12T22:59:59+08:00</lastmod>
   </url><url>
     <loc>https://tavi.top/categories/</loc>
-    <lastmod>2022-03-06T00:00:00+00:00</lastmod>
+    <lastmod>2023-01-12T22:59:59+08:00</lastmod>
   </url><url>
-    <loc>https://tavi.top/tags/default/</loc>
+    <loc>https://tavi.top/tags/linux/</loc>
+    <lastmod>2023-01-12T22:59:59+08:00</lastmod>
+  </url><url>
+    <loc>https://tavi.top/p/linux-change-hostname.html/</loc>
+    <lastmod>2023-01-12T22:59:59+08:00</lastmod>
+  </url><url>
+    <loc>https://tavi.top/post/</loc>
+    <lastmod>2023-01-12T22:59:59+08:00</lastmod>
+  </url><url>
+    <loc>https://tavi.top/tags/</loc>
+    <lastmod>2023-01-12T22:59:59+08:00</lastmod>
+  </url><url>
+    <loc>https://tavi.top/categories/%E6%8A%80%E6%9C%AF/</loc>
+    <lastmod>2023-01-12T22:59:59+08:00</lastmod>
+  </url><url>
+    <loc>https://tavi.top/archives.html/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tavi.top/categories/example-category/</loc>
@@ -24,15 +36,6 @@
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tavi.top/page/</loc>
-    <lastmod>2022-03-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tavi.top/post/</loc>
-    <lastmod>2022-03-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tavi.top/tags/</loc>
-    <lastmod>2022-03-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tavi.top/p/text.html/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tavi.top/links.html/</loc>
