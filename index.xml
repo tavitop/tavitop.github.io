@@ -12,7 +12,7 @@
         <pubDate>Thu, 12 Jan 2023 22:59:59 +0800</pubDate>
         
         <guid>https://tavi.top/p/linux-change-hostname.html/</guid>
-        <description>&lt;h2 id=&#34;操作&#34;&gt;操作&lt;/h2&gt;
+        <description>&lt;img src="https://img.tavi.top/img/202301122307267.png" alt="Featured image of post Linux Change Hostname" /&gt;&lt;h2 id=&#34;操作&#34;&gt;操作&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;只需要将/etc/hostname文件夹的内容修改为想要主机名&lt;/li&gt;
 &lt;/ol&gt;
